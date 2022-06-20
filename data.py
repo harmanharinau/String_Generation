@@ -11,8 +11,7 @@ class Data:
 
     generate_button = [generate_single_button]
 
-    buttons =
-        [
+    buttons = [
         [InlineKeyboardButton("✨ sᴜᴘᴘᴏʀᴛ ✨", url="https://t.me/CyniteOfficial")],
         [
             InlineKeyboardButton("ʜᴇʟᴘ❔", callback_data="help"),
